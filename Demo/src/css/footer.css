@@ -1,0 +1,11 @@
+{/*独立开发时，只给自己的js文件使用css*/}
+.miniFooter{
+  background-color: #333333;
+  color:#ffffff;
+  padding-left: 20px;
+  padding-top: 3px;
+}
+
+.miniFooter h1{
+  font-size: 15px;
+}
